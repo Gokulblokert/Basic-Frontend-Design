@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif !important;
+    
+}
+.logo{
+    font-size: 50px;
+    text-decoration: none;
+}
+.topnav{
+    position: sticky;
+    top: 0;
+}
+.content{
+   margin: 30px;
+}
+.slide{
+    margin: 30px;
+}
+.links{
+    color: #fff;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-item{
+    transition: 0.5s;
+}
+.nav-item:hover{
+    text-decoration: underline;
+    
+}
+.card{
+    margin: 10px;
+    
+}
+.shadow{
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+
+.service{
+    margin-bottom: 30px;
+}
+.wrapper{
+    max-width: 1200px !important;
+}
+.btn{
+    width: 50%;
+    margin: auto; 
+    margin-bottom: 30px;
+}
+.btn-2{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 35px;
+}
+.contact{
+    margin: 20px;
+    font-size: 30px;
+}
+input{
+    width: 200px;
+}
+.submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    text-transform: uppercase;
+    padding: 10px;
+    width: 100px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p{
+    margin: 10px;
+}
+i{
+    font-size: 50px;
+    padding: 20px;
+    margin: 40px;
+}
+label{
+    margin: 10px;
+}
+.owl-dots{
+    height: 20px;
+    width: 30px;
+    text-align: center;
+
+}
